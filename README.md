@@ -10,4 +10,5 @@ Another desc
 Another desc again
 ## Deployment
 
+Desc without being staged or commited
 ## How To Contribute
