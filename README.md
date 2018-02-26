@@ -12,3 +12,7 @@ Another desc again
 
 Desc without being staged or commited
 ## How To Contribute
+
+###Copyright
+
+2017 Git.Training
