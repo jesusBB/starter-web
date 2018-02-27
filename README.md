@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is an example
+Rebasing example line
 
 ## Introduction
 
