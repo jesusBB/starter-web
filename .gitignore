@@ -1,3 +1,4 @@
 ignoreThisFile.txt
 .project
 .gitignore
+*.orig
