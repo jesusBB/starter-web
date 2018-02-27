@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is an example
-Rebasing example line
+Rebasing example line, now more changes from myfeature branch
 
 ## Introduction
 
