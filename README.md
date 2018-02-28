@@ -2,6 +2,7 @@
 
 This is an example
 Rebasing example line, now more changes from myfeature branch
+Change after stashing
 
 ## Introduction
 
